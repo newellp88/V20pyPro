@@ -1,8 +1,8 @@
 # contains settings and common lists of assets to trade
 
 # basic account/environment details
-accountID = '101-011-4913967-001'
-token = '88899e549cd4edf80ddcf7e4f8a57f60-f7067b6e2e3c2ef5ba5de3116e7ae5e2'
+accountID = 'abb-ccc-etc'
+token = 'xxxxx'
 env = 'practice' # change this to 'live' when you're ready
 
 # major portfolios
