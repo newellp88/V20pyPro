@@ -31,12 +31,11 @@ Linear regression models are natural candidates for time series analysis. Using 
 
 *Ridge*
 
-![Ridge png](/graphs/Ridge 0.80991178871757.png)
+![Ridge png](/graphs/Ridge 0.8099881178871757.png)
 
 *LinearRegression*
 
 ![LinearRegression png](/graphs/LinearRegression 0.8099495670315746.png)
-
 The Autoregressive Integrated Moving Average (ARIMA) is not exactly a machine learning algorithm, but a linear model used in econometric analysis that can be applied to financial markets to make predictions. A quick build of this model can also produce 78% accurate predictions on the test data.
 
 *ARIMA*
