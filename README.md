@@ -45,7 +45,7 @@ The Autoregressive Integrated Moving Average (ARIMA) is not exactly a machine le
 
 *ARIMA*
 
-![ARIMA png](/graphs/ARIMA_0.7895470127761371.png)
+![ARIMA png](/graphs/ARIMA_0.7895470127761381.png)
 
 
 
