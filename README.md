@@ -4,6 +4,8 @@ This project provides several examples of common machine learning models applied
 
 Ideally, this project would help make these tools more accessible for those learning to apply machine learning to financial markets.
 
+*TODO: showcase quant functions and extend database usage examples.*
+
 ## Ensemble Research
 
 Using a basic list of six standard Sci-kit Learn ensemble methods, we can explore the effectiveness of these off-the-shelf models. Out of the box, these models can achieve 65-75% accuracy but could be improved by manipulating learning rates, increasing the number of estimators, or for some models, including a base estimator; i.e. another predictive model that improves the Booster's reliability.
